@@ -1,0 +1,359 @@
+body {
+    position:relative;
+    margin:0 auto;
+    display:flex;
+    align-items: center;
+    width:1080px;
+    height:1920px;
+    background-color: bisque;
+    font-size: 24px;
+    text-align: center;
+    font-family:'Crimson Text', serif;
+    overflow-y: scroll;
+    justify-content: center;
+
+}
+
+header {
+    position:absolute;
+    color: rgb(255, 250, 250);
+    top:0px;
+
+
+}
+
+.tasto {
+    color:black;
+    text-decoration:none;
+    background-color: bisque;
+    border: 2px solid black;
+    border-bottom: none;
+    border-radius: 5px;
+    padding:5px;
+    margin:3px;
+    list-style-type: none;
+}
+
+#tasti {
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    top:-37px;
+    list-style-type: none
+}
+
+h1 {
+    position: absolute;
+    font-size:65px;
+    margin:0 auto;
+    top:0px;
+    white-space: nowrap;
+    left:80px;
+    right:40px;
+    top:125px;
+}
+
+#uno {
+    position: absolute;
+    top: 450px;
+    left: 0px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+
+}
+
+#due {
+    position: absolute;
+    top: 800px;
+    left: 750px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#tre {
+    position: absolute;
+    top: 1150px;
+    left: 0px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#quattro {
+    position: absolute;
+    top: 1500px;
+    left: 750px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#cinque {
+    position: absolute;
+    top: 1850px;
+    left: 0px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#sei {
+    position: absolute;
+    top: 2200px;
+    left: 750px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#sette {
+    position: absolute;
+    top: 2550px;
+    left: 0px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#otto {
+    position: absolute;
+    top: 2900px;
+    left: 750px;
+    height: 300px;
+    width: 350px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#unos {
+  display: block;
+  position:absolute;
+  color:rgb(0, 0, 0);
+  text-align: left;
+  top:720px;
+  left:370px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#dues {
+    display: block;
+  position:absolute;
+  color:rgb(7, 7, 7);
+  text-align: left;
+  top:1070px;
+  left:420px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#tres {
+    display: block;
+  position:absolute;
+  color:rgb(0, 0, 0);
+  text-align: left;
+  top:1420px;
+  left:370px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#quattros {
+    display: block;
+  position:absolute;
+  color:rgb(7, 7, 7);
+  text-align: left;
+  top:1770px;
+  left:430px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#cinques {
+    display: block;
+  position:absolute;
+  color:rgb(0, 0, 0);
+  text-align: left;
+  top:2120px;
+  left:370px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#seis {
+    display: block;
+  position:absolute;
+  color:rgb(7, 7, 7);
+  text-align: left;
+  top:2470px;
+  left:300px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#settes {
+    display: block;
+    position:absolute;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    top:2820px;
+    left:370px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+#ottos {
+    display: block;
+    position:absolute;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    top:3170px;
+    left:340px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+
+.foto:hover {
+    transform:scale(1.5);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+
+#duesrock {
+    display: block;
+  position:absolute;
+  color:rgb(7, 7, 7);
+  text-align: left;
+  top:1070px;
+  left:360px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  }
+
+#duesjazz {
+    display: block;
+    position:absolute;
+    color:rgb(7, 7, 7);
+    text-align: left;
+    top:1070px;
+    left:340px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+#quattrosjazz {
+    display: block;
+  position:absolute;
+  color:rgb(7, 7, 7);
+  text-align: left;
+  top:1770px;
+  left:340px;
+  line-height: 1.5em;
+  max-width: 650px;
+  overflow-wrap: break-word;
+  margin-left: 3% auto;
+  margin-right: 8% auto;
+}
+
+#duesraggaeton {
+    display: block;
+    position:absolute;
+    color:rgb(7, 7, 7);
+    text-align: left;
+    top:1070px;
+    left:310px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+#duesraggae {
+    display: block;
+    position:absolute;
+    color:rgb(7, 7, 7);
+    text-align: left;
+    top:1070px;
+    left:325px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+#duesmusicaitaliana {
+    display: block;
+    position:absolute;
+    color:rgb(7, 7, 7);
+    text-align: left;
+    top:1070px;
+    left:460px;
+    line-height: 1.5em;
+    max-width: 650px;
+    overflow-wrap: break-word;
+    margin-left: 3% auto;
+    margin-right: 8% auto;
+}
+
+
+
+
+  
