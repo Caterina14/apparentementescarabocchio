@@ -1,0 +1,226 @@
+body {
+    position:relative;
+    margin:0 auto;
+    display:flex;
+    width:1080px;
+    height:1920px;
+    background-color:bisque;
+    font-size: 24px;
+    font-family:'Crimson Text', serif;
+    overflow-y: scroll;
+}
+
+header {
+    position:absolute;
+    color: rgb(255, 250, 250);
+    top:0px;
+}
+
+h1 {
+    position:absolute;
+    top:50px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+#abstract {
+    position:absolute;
+    top: 80px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+} 
+
+
+h2 {
+    position:absolute;
+    top:250px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+#benchmarking {
+    position:absolute;
+    top: 280px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+h3 {
+    position:absolute;
+    top:500px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+
+#schema1 {
+    position: absolute;
+    top: 550px;
+    left: 20px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#wireframe1 {
+    position: absolute;
+    top: 980px;
+    left: 20px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#wireframe2 {
+    position: absolute;
+    top: 1410px;
+    left: 20px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#wireframe3 {
+    position: absolute;
+    top: 1840px;
+    left: 20px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+h4 {
+    position:absolute;
+    top:2690px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+#lookandfeel {
+    position:absolute;
+    top: 2715px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+h5 {
+    position:absolute;
+    top:2820px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+#linguaggi {
+    position:absolute;
+    top: 2850px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+h6 {
+    position:absolute;
+    top:3040px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:25px;
+}
+
+#background {
+    position:absolute;
+    top: 3070px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+#obiettivi {
+    position:absolute;
+    top: 3170px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+#target {
+    position:absolute;
+    top: 3330px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+#promozione {
+    position:absolute;
+    top: 3550px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+#valutazione {
+    position:absolute;
+    top: 3720px;
+    left:20px;
+    font-family:'Crimson Text', serif;
+    font-size:20px;
+}
+
+#fonti {
+    position:absolute;
+    top: 1420px;
+    left:500px;
+    font-family:'Crimson Text', serif;
+    font-size:15px;
+}
+
+#wireframe4 {
+    position: absolute;
+    top: 2270px;
+    left: 20px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+#grafico1 {
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    
+}
+
+#grafico2 {
+    position: absolute;
+    top: 500px;
+    left: 0px;
+    height: 400px;
+    width: 450px;
+    border: solid 2px white;
+    margin-left: 3% auto;
+    margin-right: 3% auto;
+}
+
+
+
